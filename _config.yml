@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+show_downloads: false
+lang: en
+github:
+  is_project_page: false
+  repository_url: https://azadisaryev.github.io/iSamsMBP/
+  owner_url: https://azadisaryev.github.io/iSamsMBP/
