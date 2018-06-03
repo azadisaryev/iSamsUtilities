@@ -4,6 +4,7 @@ description: Paste grades into iSams Mark Books!
 logo_url: /static/isamsmbp-128.png
 show_downloads: false
 lang: en
+google_analytics: UA-120222754-1
 github:
   is_project_page: false
   repository_url: https://azadisaryev.github.io/iSamsMBP/
