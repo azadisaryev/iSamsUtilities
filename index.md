@@ -20,8 +20,8 @@ When I had to start using Mark Books in iSams to enter grades for student report
 
 - Enable/disable automatic loading of iSams MarkBook Paster on mark book pages in iSams
 
-To access iSamsMBP's Options, right-click on the extension's icon in the Chrome toolbar and select 'Options'.
-When automatic loading is disabled, you can still manually start iSamsMBP on a mark book page by right-clicking on the mark book and selecting `iSams MarkBook Paster` item.
+To access iSamsMBP's Options, right-click on the extension's icon in the Chrome toolbar and select __'Options'__.
+When automatic loading is disabled, you can still manually start iSamsMBP on a mark book page by right-clicking on the mark book and selecting __iSams MarkBook Paster__ item.
 
 ### Reporting Issues / Feature Requests
 
