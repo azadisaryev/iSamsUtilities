@@ -8,11 +8,11 @@ When I had to start using Mark Books in iSams to enter grades for student report
 
 ### Features
 
-- Works only on iSams' Mark Book pages (Mark Book must be in 'edit' mode)
-- Loads automatically (can be disabled in Options - see below)
-- Simple guided user interface
+- Loads on iSams' Mark Book pages (Mark Book must be in 'edit' mode) - does not interfere with any other websites
+- Enabled automatically (can be disabled in Options - see _Options_ below)
+- Simple, guided user interface
 - Grades can be pasted one column at a time (for now)
-- Basic data validation built-in:
+- Data validation built-in:
   * Checks that numder of grades being pasted matched the number of students in the mark book
   * Checks that values being pasted match the grade values accepted in the column being pasted into
 
@@ -20,8 +20,8 @@ When I had to start using Mark Books in iSams to enter grades for student report
 
 - Enable/disable automatic loading of iSams MarkBook Paster on mark book pages in iSams
 
-To access iSamsMBP's Options, right-click on the extension's icon in the Chrome toolbar and select __'Options'__.
-When automatic loading is disabled, you can still manually start iSamsMBP on a mark book page by right-clicking on the mark book and selecting __iSams MarkBook Paster__ item.
+To access iSamsMBP's Options, right-click on the extension's icon in the Chrome toolbar and select _'Options'_.
+When automatic loading is disabled, you can still manually start iSamsMBP on a mark book page by right-clicking on the mark book and selecting _iSams MarkBook Paster_ item.
 
 ### Reporting Issues / Feature Requests
 
