@@ -1,6 +1,6 @@
 ![Available in the Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_340x96.png)
 
-![iSamsMBP](static/isamsmbp-128.png)
+![iSamsMBP](static/isamsmbp-webpage-banner-1.png)
 
 **iSams MarkBook Paster** (iSamsMBP) is a Google Chrome extension that enables pasting grades into an iSams Mark Book from Google Steets, Excel or similar source. 
 
