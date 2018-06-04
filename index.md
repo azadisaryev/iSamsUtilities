@@ -1,4 +1,4 @@
-![Available in the Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_340x96.png)
+![Available in the Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)
 
 ![iSamsMBP](static/isamsmbp-webpage-banner-1.png)
 
