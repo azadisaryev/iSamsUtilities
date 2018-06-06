@@ -1,7 +1,7 @@
 ---
 youtubeId: pClii6T0JQs
 ---
-![Available in the Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)
+[![Available in the Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/pejofheppddmifhohdecbiocahfjhfjb)
 
 ![iSamsMBP](static/isamsmbp-webpage-banner-1.png)
 
