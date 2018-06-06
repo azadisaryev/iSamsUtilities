@@ -1,5 +1,7 @@
 ---
+youtubeId: pClii6T0JQs
 ---
+
 ![Available in the Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)
 
 ![iSamsMBP](static/isamsmbp-webpage-banner-1.png)
@@ -10,6 +12,7 @@ I created GradesPaster extension after I had to start using Mark Books in iSams 
 
 The extension loads automatically (can be turned off on the Options page - see below) on iSams Mark Book pages when in 'editing' mode. Currently it only lets you paste one column of grades at a time. On the very first paste, Google Chrome will prompt you to 'allow isams.cloud website to access your clipboard' - make sure to click "Allow", or you won't be able to paste grades!
 
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ### Features
 
