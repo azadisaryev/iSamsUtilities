@@ -1,10 +1,15 @@
+---
+---
 ![Available in the Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)
 
 ![iSamsMBP](static/isamsmbp-webpage-banner-1.png)
 
-**iSams MarkBook Paster** (iSamsMBP) is a Google Chrome extension that enables pasting grades into an iSams Mark Book from Google Steets, Excel or similar source. 
+**GradesPaster for iSams Mark Book** is a Google Chrome extension that enables pasting grades into an iSams Mark Book from Google Steets, Excel or similar source. 
 
-When I had to start using Mark Books in iSams to enter grades for student reports, I discovered that there was no built-in functionality to paste grades from another source! With number of individual grades I had to input exceeding several thousand, I did not feel like spending endless hours clicking on individual mark book cells and selecting the grade, so I wrote this Google Chrome extension instead. Now you too can easily paste grades into iSams Mark Book!
+I created GradesPaster extension after I had to start using Mark Books in iSams and discovered there was no built-in copy-paste functionality. The idea of having to click thousands of times to enter all the grades for reports did not sit well with me, so I made this extension. Hope it makes your life as a teacher a little easier, too!
+
+The extension loads automatically (can be turned off on the Options page - see below) on iSams Mark Book pages when in 'editing' mode. Currently it only lets you paste one column of grades at a time. On the very first paste, Google Chrome will prompt you to 'allow isams.cloud website to access your clipboard' - make sure to click "Allow", or you won't be able to paste grades!
+
 
 ### Features
 
@@ -13,15 +18,16 @@ When I had to start using Mark Books in iSams to enter grades for student report
 - Simple, guided user interface
 - Grades can be pasted one column at a time (for now)
 - Data validation built-in:
-  * Checks that numder of grades being pasted matched the number of students in the mark book
+  * Checks that number of grades being pasted matches number of students in the mark book
   * Checks that values being pasted match the grade values accepted in the column being pasted into
 
 ### Options
 
-- Enable/disable automatic loading of iSams MarkBook Paster on mark book pages in iSams
+- Enable/disable automatic loading of GradesPaster on mark book pages in iSams
 
-To access iSamsMBP's Options, right-click on the extension's icon in the Chrome toolbar and select _'Options'_.
-When automatic loading is disabled, you can still manually start iSamsMBP on a mark book page by right-clicking on the mark book and selecting _iSams MarkBook Paster_ item.
+To access GradesPaster options, right-click on the extension's icon in the Chrome toolbar and select _'Options'_.
+
+When automatic loading is disabled, you can still manually start GradesPaster on a mark book page by right-clicking on the mark book and selecting _GradesPaster for iSams Mark Book_ item.
 
 ### Reporting Issues / Feature Requests
 
