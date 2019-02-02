@@ -5,18 +5,20 @@ youtubeId: pClii6T0JQs
 
 ![iSamsMBP](static/isamsmbp-webpage-banner-1.png)
 
-**GradesPaster for iSAMS Mark Book** is a Google Chrome extension that enables pasting grades into a mark book in iSAMS from Google Steets, Excel or similar source. 
+**GradesPaster for iSams Mark Book** is a Google Chrome extension that enables pasting grades into a mark book in iSams from Google Steets, Excel or similar source. It also now works in the new iSams user interface, and makes URLs in the Note field in Learning Support (LS and G&T) Reports clickable when you preview these reports.
 
-I created GradesPaster extension after I had to start using Mark Books in iSAMS and discovered there was no built-in copy-paste functionality. The idea of having to click thousands of times to enter all the grades for reports did not sit well with me, so I made this extension. Hope it makes your life as a teacher a little easier, too!
+I created GradesPaster extension after I had to start using Mark Books in iSams and discovered there was no built-in copy-paste functionality. The idea of having to click thousands of times to enter all the grades for reports did not sit well with me, so I made this extension. As I work with iSams more and more, I expect to be adding other features to GradesPaster that improve user interface and functionality of iSams to my my life as a teacher and iSams admin easier. Hope it makes your life as a teacher a little easier, too!
 
-The extension loads automatically (can be turned off on the Options page - see below) on iSAMS Mark Book pages when in 'editing' mode. Currently it only lets you paste one column of grades at a time. On the very first paste, Google Chrome will prompt you to 'allow isams.cloud website to access your clipboard' - make sure to click "Allow", or you won't be able to paste grades!
+The extension loads automatically (can be turned off on the Options page - see below) on iSams Mark Book pages when in 'editing' mode. Currently it only lets you paste one column of grades at a time. On the very first paste, Google Chrome will prompt you to _'allow isams.cloud website to access your clipboard'_ - make sure to click "Allow", or you won't be able to paste any grades!
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
 ### Features
 
-- Loads on iSAMS' Mark Book pages (Mark Book must be in 'edit' mode) - does not interfere with any other websites
-- Enabled automatically (can be disabled in Options - see _Options_ below)
+- **NEW**: On LS and G&T Report print preview pages, converts URLs in Notes field into clickable links - now LS admins can put a link to a shared Google Doc into student Notes, instead of having to upload a document, and re-upload every time it is updated!
+- **NEW**: now also works in new iSams user interface!
+- On iSams Mark Book page with Mark Book is 'edit' mode, lets you copy/paste grades from external source (Google Sheet, MS Excel, or similar)
+- Loads automatically (can be disabled in Options - see below)
 - Simple, guided user interface
 - Grades can be pasted one column at a time (for now)
 - Data validation built-in:
