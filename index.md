@@ -36,3 +36,9 @@ When automatic loading is disabled, you can still manually start GradesPaster on
 ### Reporting Issues / Feature Requests
 
 Please report any issues or suggest feature ideas on the [Issues page](https://github.com/azadisaryev/iSamsMBP/issues).
+
+### Feature Images
+
+![GradesPaster aloows you to paste grades into iSams Mark Books and works in new iSams user interface](static/new_isams_ui.png)
+
+![GradesPaster makes links in LS and G&T Reports clickable](static/clickable_links_in_ls_reports.png)
