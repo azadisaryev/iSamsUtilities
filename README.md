@@ -7,6 +7,6 @@ iSams Utilities (formerly GradesPaster for iSams Mark Book) is a Google Chrome e
 * clickable links in Student Notes
 
 
-[iSams Utilities website](https://azadisaryev.github.io/iSamsMBP/)
+[iSams Utilities website](https://www.appsscript.ninja/gradespaster-for-isams-markbook)
 
 [iSams Utilities on Chrome WebStore](https://chrome.google.com/webstore/detail/pejofheppddmifhohdecbiocahfjhfjb)
